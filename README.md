@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Siddhant-kushwaha02?style=for-the-badge&color=00f5c4&labelColor=0d1b2a&logo=github)](https://github.com/Siddhant-kushwaha02)
-[![X](https://img.shields.io/badge/𝕏_@Siddhant__k10-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Siddhant_k10)
+[![X](https://img.shields.io/badge/𝕏_@siddhant_k0210-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/siddhant_k0210)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddhant_kush_02)
 
 </div>
@@ -42,7 +42,7 @@ public class Siddhant : Developer {
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -70,7 +70,7 @@ public class Siddhant : Developer {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -91,7 +91,7 @@ public class Siddhant : Developer {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
